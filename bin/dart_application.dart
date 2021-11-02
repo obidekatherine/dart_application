@@ -1,4 +1,4 @@
-import 'package:dart_application/dart_application.dart' as dart_application;
+import 'package:dart_application/src/dart_application.dart' as dart_application;
 
 void main(List<String> arguments) {
   try {
