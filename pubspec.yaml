@@ -10,9 +10,11 @@ environment:
 dependencies:
   calculator: 
     path: 'packages/calculator'
-
+  
   
     
 
 dev_dependencies:
   lints: ^1.0.0
+  test: ^1.19.3
+
